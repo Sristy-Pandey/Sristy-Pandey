@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sristy-Pandey
-- 👀 I’m interested in HTML,CSS,Python,Java,SQL
+- 👀 I’m interested in HTML, CSS, Python, Java, SQL
 - 🌱 I’m currently learning Python,SQL
 - 📫 How to reach me https://www.linkedin.com/in/sristy-pandey-191035241 
 
